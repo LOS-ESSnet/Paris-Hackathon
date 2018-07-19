@@ -18,6 +18,7 @@ The [Data sets](datasets.md) page references the descriptions of the data sets m
 | Landing page | URL of a page giving more information on the data set |
 | Keywords     | One or several keywords related to the content of the data set |
 | Spatial      | Geographic coverage of the data set (e.g. ISO 3166 code) |
+| Structure    | List of variables or data structure definition (should be the URL of a document) |
 | Usage        | Suggested use cases for the data set and/or precautions for use |
 
 
