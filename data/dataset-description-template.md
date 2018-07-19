@@ -1,7 +1,7 @@
 # LOS Paris Hackathon: data set description template #
 
 
-This template should be used to describe the data sets that will be made available before or during the hackathon. The template is loosely based on the [StatDCAT application profile](https://joinup.ec.europa.eu/release/statdcat-ap-v100).
+This template should be used to describe the data sets that will be made available before or during the hackathon. The template is loosely based on the [StatDCAT application profile](https://joinup.ec.europa.eu/release/statdcat-ap-v100). In particular, each description is split between a "dataset" part, which lists the general characteristics, and a "distribution" part which describes the physical data set provided for the hackathon.
 
 All string properties should be provided at least in English, but additional values can be given for other languages.
 
