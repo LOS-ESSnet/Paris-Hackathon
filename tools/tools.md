@@ -30,7 +30,7 @@ TBP
 
 ## Python
 
-TBP
+[RDFLib](https://pypi.org/project/rdflib/) is a Python library for working with RDF. It also provides a SPARQL engine.
 
 ## R
 
