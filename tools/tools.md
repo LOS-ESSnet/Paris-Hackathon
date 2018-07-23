@@ -34,11 +34,19 @@ TBP
 
 ## R
 
-Redland package: https://cran.r-project.org/web/packages/redland/index.html
+The two main packages for the manipulation of `RDF` data are `rdflib` and `SPARQL`.
 
-The rdflib package in the rOpenSci project: https://github.com/ropensci/rdflib
+### The rdflib package
 
-<To be completed>
+The [rOpenSci](https://ropensci.org/)'s `rdflib` package (https://cran.r-project.org/package=rdflib) provides a friendly and concise user interface for performing common tasks on `RDF` data, such as parsing and converting between formats including `rdfxml`, `turtle`, `nquads`, `ntriples`, and `trig`, creating `RDF` graphs, and performing `SPARQL` queries.  
+
+This package wraps the rOpenSci's `redland` R package (https://cran.r-project.org/package=redland) that implements an R interface to the Redland RDF C library,
+described at http://librdf.org/docs/api/index.html.  
+See the installation instructions here: [doi:10.5063/F1VM496B](http://doi.org/10.5063/F1VM496B).
+
+### The SPARQL package
+
+The `SPARQL` package (https://cran.r-project.org/package=SPARQL): use `SPARQL` to pose `SELECT` or `UPDATE` queries to an end-point.
 
 ## JavaScript
 
