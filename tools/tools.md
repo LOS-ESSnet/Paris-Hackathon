@@ -20,8 +20,15 @@ RDF4J (http://rdf4j.org/), previously known as Sesame, is currently in incubatio
 
 ### Other tools
 
-A number In order to read the source data,
-POI, CSVReader...
+A number of useful tools can be used in order to read the source data.
+
+#### Apache POI
+
+[Apache POI](https://poi.apache.org/) is a good solution for reading Microsoft Office documents, and in particular Excel spreadsheets, even very large ones.
+
+#### Apache Commons CSV
+
+[Apache Commons CSV](https://commons.apache.org/proper/commons-csv/) is an efficient and flexible solution for reading CSV files.
 
 ### Exemples
 
