@@ -18,6 +18,10 @@ To use Jena in a Maven project, just add a [dependency](https://mvnrepository.co
 
 RDF4J (http://rdf4j.org/), previously known as Sesame, is currently in incubation phase at the Eclipse foundation.
 
+The [Documentation](http://docs.rdf4j.org/) page gives an overview of the library structure and links to interesting tutorials and documentations.
+
+To use RDF4J in a Maven project, just add a [dependency](https://mvnrepository.com/artifact/org.eclipse.rdf4j/rdf4j-runtime) on the `rdf4j-runtime` artifact ([more detail here](http://docs.rdf4j.org/programming)).
+
 ### Other tools
 
 A number In order to read the source data,
