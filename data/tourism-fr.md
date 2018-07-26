@@ -4,17 +4,17 @@ For a description of the properties, see the [template](dataset-description-temp
 
 ## Data set
 
-| Property     | Value |
-|--------------|----|
-| Identifier   |  |
-| Title        |  |
-| Description  |  |
-| Publisher    |  |
-| Landing page |  |
-| Keywords     |  |
-| Spatial      |  |
-| Structure    |  |
-| Usage        |  |
+| Property     | Value
+|--------------|----
+| Identifier   | tour_occ
+| Title        | Occupancy of tourist accommodation establishments
+| Description  | Tourism industries  -  Annual occupancy of tourist accommodation establishments: included “Nights spent by residents and non-residents” and “Arrivals of residents and non-residents”; excluded “Occupancy rates for hotels and similar accommodation
+| Publisher    | INSEE
+| Landing page | [ESMS](http://ec.europa.eu/eurostat/cache/metadata/en/tour_occ_esms.htm)
+| Keywords     | 
+| Spatial      | 
+| Structure    |
+| Usage        |
 
 
 ## Distribution
