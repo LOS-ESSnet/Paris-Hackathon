@@ -24,3 +24,11 @@ The agenda below is still tentative. Please note that coffee and lunch breaks wi
 | Wednesday | 9:30 AM - 10:00 AM | First presentation of results |
 | Wednesday | 10:00 AM - 4:00 PM | Hackathon activities |
 | Wednesday | 4:00 PM - 6:00 PM | Presentation of results |
+
+## Suggestions
+
+Here are some detailed suggestions in case you need inspiration.
+
+### French Census data
+
+An [example program](https://github.com/LOS-ESSnet/POP5) is provided that converts results from the French Census (the ‘POP5’ spreadsheet) into a Data Cube DSD and DataSet. You can try to adapt the program to [other Census data sets](https://www.insee.fr/fr/statistiques/3561090?sommaire=3561107), or to [previous years](https://www.insee.fr/fr/statistiques/2053581?sommaire=2118618) (for methodological reasons, you can only compare results that are separated by five years).
