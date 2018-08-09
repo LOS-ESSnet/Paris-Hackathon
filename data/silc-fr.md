@@ -13,7 +13,7 @@ For a description of the properties, see the [template](dataset-description-temp
 | Landing page | [ESMS](http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm)
 | Keywords     | Income and living conditions, At-risk-of-poverty rate, Material and social deprivation rate, Sex, Age class
 | Spatial      | FR
-| Structure    | [DSD](https://github.com/LOS-ESSnet/Paris-Hackathon/blob/master/data/silc-fr-dsd?raw=true)
+| Structure    | [DSD](https://github.com/LOS-ESSnet/Paris-Hackathon/blob/master/data/silc-fr-dsd.ods?raw=true)
 | Usage        | 
 
 
