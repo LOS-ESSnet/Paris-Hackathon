@@ -32,3 +32,8 @@ Here are some detailed suggestions in case you need inspiration.
 ### French Census data
 
 An [example program](https://github.com/LOS-ESSnet/POP5) is provided that converts results from the French Census (the ‘POP5’ spreadsheet) into a Data Cube DSD and DataSet. You can try to adapt the program to [other Census data sets](https://www.insee.fr/fr/statistiques/3561090?sommaire=3561107), or to [previous years](https://www.insee.fr/fr/statistiques/2053581?sommaire=2118618) (for methodological reasons, you can only compare results that are separated by five years).
+
+
+### Data Cube DSDs
+
+[DSD-Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web app designed to edit [DSDs](https://www.w3.org/TR/vocab-data-cube/). This ReactJS tool is based on [N3.js](https://github.com/rdfjs/N3.js) which provides a local RDF store. Import, export, create and edit your RDF data !
