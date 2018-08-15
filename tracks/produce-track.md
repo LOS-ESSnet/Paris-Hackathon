@@ -36,4 +36,4 @@ An [example program](https://github.com/LOS-ESSnet/POP5) is provided that conver
 
 ### Data Cube DSDs
 
-[DSD-Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web app designed to edit [DSDs](https://www.w3.org/TR/vocab-data-cube/). This ReactJS tool is based on [N3.js](https://github.com/rdfjs/N3.js) which provides a local RDF store. Import, export, create and edit your RDF data !
+[DSD-Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web app designed to edit [DSDs](https://www.w3.org/TR/vocab-data-cube/). This ReactJS tool is based on [N3.js](https://github.com/rdfjs/N3.js) which provides a local RDF store. Import, export, create and edit your RDF data!
