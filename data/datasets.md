@@ -21,6 +21,7 @@ The following data sets are made available for the hackathon.
 
 TBP
 
-### Other data
+### Data in other formats
 
  * [Istat statistics](http://dati.istat.it/Index.aspx?lang=en)
+ * The [Eurostat database](http://ec.europa.eu/eurostat/data/database)

@@ -68,8 +68,15 @@ SPARQL-Connect: https://www.npmjs.com/package/sparql-connect
 
 ## High-level tools
 
-Open Cube toolkit: http://opencube-toolkit.eu/
+### DSD Editor
 
-Derilinx pipeline
+The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web app designed to edit [Data Cube](https://www.w3.org/TR/vocab-data-cube/) Data Structure Definitions. This ReactJS tool is based on [N3.js](https://github.com/rdfjs/N3.js) which provides a local RDF store. Import, export, create and edit your RDF data!
 
-Melodi tool
+### Open Cube Toolkit
+
+The [Open Cube Toolkit](http://opencube-toolkit.eu/) is a collection of tools designed to work with RDF data cubes.
+
+### Derilinx pipeline
+
+
+### Melodi tool

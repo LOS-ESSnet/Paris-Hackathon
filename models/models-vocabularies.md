@@ -11,7 +11,7 @@ The [OWL Primer](https://www.w3.org/TR/owl2-primer/) is for more advanced users 
 
 ## SPARQL
 
-The Jena documentation includes a [SPARQL tutorial](https://jena.apache.org/tutorials/sparql.html), translated in French [here](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/).
+The Jena documentation includes a [SPARQL tutorial](https://jena.apache.org/tutorials/sparql.html), translated in French [here](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/). For more in-depth information, the [SPARQL Query Language](https://www.w3.org/TR/sparql11-query/) specification is the place to go.
 
 ## Data Cube
 
