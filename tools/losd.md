@@ -41,7 +41,7 @@ The following Figure presents an overview of the various tools and their interac
 - *Account registration instructions*: Users do not need to register or have an account to use the LOSD SPARQL endpoint.
 
 
-##Cube Visualizer the visualisation and analytics tool
+## Cube Visualizer the visualisation and analytics tool
 
 - *Description*: Cube Visualizer is the cube visualization tool that serves also as a visual analytics tool. It allows user to create and present graphical visualisations of RDF data cube's one-dimensional slices. User can interact with User Interface by choosing measure, free dimension and dimension values, which later are transformed into appropriate API requests. Responses from the API are presented to user in a form of chart - bar chart, pie chart or area chart.
 
