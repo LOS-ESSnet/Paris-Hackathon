@@ -76,8 +76,10 @@ The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web ap
 
 The [Open Cube Toolkit](http://opencube-toolkit.eu/) is a collection of tools designed to work with RDF data cubes.
 
-### Derilinx pipeline
+### Centralised LOSD Publication Platform
+The Centralised LOSD Publication Platform is a set of tools that have been thoroughly studied and deployed/adapted by [Derilinx](https://derilinx.com/), [ADAPT](https://www.adaptcentre.ie/) and [Insight](https://www.insight-centre.org/) to form the LOSD publication pipeline: Data Cataloging, Conversion, Publishing, and Visualisation and Analysis.
 
+Details about the LOSD Publication pipeline are available [here] (losd.md).
 
 ### Chargement DSD
 L'outil [chargement DSD](https://github.com/Landalvic/los-hackathon) est un poc fait en react + java qui permet de charger/modifier/supprimer des  DSD et de charger des données à l'intérieur, le tout basé sur le modèle [Data Cube](https://www.w3.org/TR/vocab-data-cube/). L'outil permet également de visualiser ces données en format XML ou JSON.
