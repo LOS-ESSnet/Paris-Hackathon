@@ -6,7 +6,7 @@ For a description of the properties, see the [template](dataset-description-temp
  
 | Property     | Value 
 |--------------|----
-| Identifier   | sbs-r 
+| Identifier   | sbs-fr 
 | Title        | Structural business statistics for France (partial) 
 | Description  | Data covering market activities (NACE Rev. 2 sections B to N and group S95:<ul><li>National data broken down by size class of number of persons employed</li><li>Regional data</li></ul> 
 | Publisher    | EUROSTAT 
