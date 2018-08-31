@@ -17,6 +17,12 @@ The hackathon is structured in two tracks:
 
 For more information on these two tracks, click on the following links: [Produce](tracks/produce-track.md) - [Consume](tracks/consume-track.md).
 
+## Data, standards and tools
+
+A number of data sets have been prepared for the hackathon, which are precisely described in the [Data sets](data/datasets.md) page.
+
+Other useful resources can be found in the [Standards, models and vocabularies](models/models-vocabularies.md) and [Software tools](tools/tools.md) pages.
+
 ## Practical information
 
 The hackathon will take place at [Insee's headquarters](https://www.google.com/maps/place/48°48'58.5"N+2°18'29.3"E) in Montrouge, just south of Paris. Access information is available on [Insee's web site](https://www.insee.fr/fr/information/1895031). Participants must be registered and bring a valid photo ID in order to enter the building.
