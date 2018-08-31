@@ -24,11 +24,11 @@ For a description of the properties, see the [template](dataset-description-temp
 | Title        | Structural business statistics for France broken down by size class of number of persons employed from 2010 to 2016 on national level in CSV format 
 | Licence      | [Legal notice](https://ec.europa.eu/info/legal-notice_en)
 | Format       | CSV 
-| Access URL   | [http://linked-open-statistics.org/plosh/sbs_sc_r2.csv](http://linked-open-statistics.org/plosh/sbs_sc_r2.csv) |
+| Access URL   | [http://linked-open-statistics.org/plosh/sbs_sc_r2.csv](http://linked-open-statistics.org/plosh/sbs-sc-r2-fr.csv) |
  
 | Property     | Value 
 |--------------|----
 | Title        | Structural business statistics for France on regional level from 2010 to 2016 in CSV format   
 | Licence      | [Legal notice](https://ec.europa.eu/info/legal-notice_en)
 | Format       | CSV 
-| Access URL   | [http://linked-open-statistics.org/plosh/sbs_r_nuts.csv](http://linked-open-statistics.org/plosh/sbs_r_nuts.csv) |
+| Access URL   | [http://linked-open-statistics.org/plosh/sbs_r_nuts.csv](http://linked-open-statistics.org/plosh/sbs-r-nuts-fr.csv) |
