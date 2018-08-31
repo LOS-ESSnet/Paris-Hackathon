@@ -11,15 +11,17 @@ Non limitative list of possible activities during the hackathon:
 
 ## Agenda
 
-The agenda below is still tentative. Please note that coffee and lunch breaks will be added in future versions.
+The detailed agenda is indicated below. Please note that coffee will be provided at the start of each morning and afternoon session.
 
 | Day       | Time    | Session |
 |-----------|---------|---------|
 | Monday    | 2:00 AM - 2:30 PM | Introduction(s) |
-| Monday    | 2:30 AM - 3:30 PM | Presentation of the data sets |
-| Monday    | 3:30 AM - 4:00 PM | Presentation of the tools |
+| Monday    | 2:30 AM - 3:15 PM | Presentation of the data sets |
+| Monday    | 3:15 AM - 4:00 PM | Presentation of the tools |
 | Monday    | 4:00 AM - 6:00 PM | Hackathon activities |
-| Tuesday   | 9:00 AM - 6:00 PM | Hackathon activities |
+| Tuesday   | 9:00 AM - 12:00 PM | Hackathon activities |
+| Tuesday   | 12:00 PM - 1:30 PM | Lunch break |
+| Tuesday   | 1:30 AM - 6:00 PM | Hackathon activities |
 | Wednesday | 9:00 AM - 9:30 AM | Preparation of presentations |
 | Wednesday | 9:30 AM - 10:00 AM | First presentation of results |
 | Wednesday | 10:00 AM - 4:00 PM | Hackathon activities |
