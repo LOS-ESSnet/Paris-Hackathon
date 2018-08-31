@@ -13,7 +13,7 @@ For a description of the properties, see the [template](dataset-description-temp
 | Landing page | [ESMS](https://ec.europa.eu/eurostat/cache/metadata/en/lfsq_esms.htm)
 | Keywords     | Active population, Unemployment, Employment
 | Spatial      |  FR
-| Structure    | [DSD]()
+| Structure    | [DSD](https://github.com/LOS-ESSnet/Paris-Hackathon/blob/master/data/lfs-fr-dsd.ods?raw=true)
 | Usage        | 
 
 
