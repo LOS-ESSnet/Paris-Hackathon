@@ -1,13 +1,15 @@
-# LOS Paris Hackathon: “Produce” track #
+# LOS Paris Hackathon: “Produce” track
 
 The “Produce” track is about creating statistical linked data (or metadata). It will start Monday at 2PM and end on Wedenesday evening.
 
 ## Activities
 
-Non limitative list of possible activities during the hackathon:
+Here is a non-limitative list of possible activities during the hackathon:
   * Create RDF data sets;
   * Create metadata for a data set (for example: description, provenance, etc.) and attach the metadata to the data;
   * Evaluate or test software packages or high-level tools.
+
+In order to prepare for this track, it is recommended that the participants get familiar with the [Data Cube](https://www.w3.org/TR/vocab-data-cube/) W3C Recommendation.
 
 ## Agenda
 
@@ -38,4 +40,8 @@ An [example program](https://github.com/LOS-ESSnet/POP5) is provided that conver
 
 ### Data Cube DSDs
 
-You can create Data Structure Definitions for new multi-dimensional data sets using the DSD Editor (see the [Tools page](../tools/tools.md)).
+You can create Data Structure Definitions for new multi-dimensional data sets using the DSD Editor or DSD Loader (see the [Tools page](../tools/tools.md)).
+
+### Sirene enterprise registry
+
+Insee publishes the French enterprise registry (Sirene) on the data.gouv platform (see [here](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/)). You can convert Sirene to RDF, using for example the ORG ontology.

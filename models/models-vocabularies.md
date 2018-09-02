@@ -15,7 +15,7 @@ All participants of the “Produce” track that intend to convert or create dim
 
 ## SPARQL
 
-For participants of the "Consume" track, SPARQL will be the most useful thing to know. The Jena documentation includes a [SPARQL tutorial](https://jena.apache.org/tutorials/sparql.html), translated in French [here](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/). For more in-depth information, the [SPARQL Query Language](https://www.w3.org/TR/sparql11-query/) specification is the place to go.
+For participants of the “Consume” track, SPARQL will be the most useful thing to know. The Jena documentation includes a [SPARQL tutorial](https://jena.apache.org/tutorials/sparql.html), translated in French [here](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/). For more in-depth information, the [SPARQL Query Language](https://www.w3.org/TR/sparql11-query/) specification is the place to go.
 
 ## SKOS / XKOS
 
