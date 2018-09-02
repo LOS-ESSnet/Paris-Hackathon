@@ -1,4 +1,4 @@
-# LOS Paris Hackathon: software tools #
+# LOS Paris Hackathon: software tools
 
 This page lists different tools that could be useful for the participants, without aiming at exhaustivity.
 
@@ -36,12 +36,15 @@ A number of useful tools can be used in order to read the source data.
 
 ### Exemples
 
-TBP
+The [POP5](https://github.com/LOS-ESSnet/POP5) program shows how to work with Apache Jena. See the [DataSetModelMaker](https://github.com/LOS-ESSnet/POP5/blob/master/src/main/java/eu/europa/ec/eurostat/los/pop5/DataSetModelMaker.java) class for an example of reading Excel data with POI and transforming it to RDF, and the [DSDModelMaker](https://github.com/LOS-ESSnet/POP5/blob/master/src/main/java/eu/europa/ec/eurostat/los/pop5/DSDModelMaker.java) for how to make a SPARQL query with Jena.
 
+The DSD Loader (see below) is an example of Java program using Eclipse RDF4J framework.
 
 ## Python
 
 [RDFLib](https://pypi.org/project/rdflib/) is a Python library for working with RDF. It also provides a SPARQL engine.
+
+A demo Jupyter notebook showing how to query a SPARQL endpoint is provided [here](sparql-python.ipynb).
 
 ## R
 
@@ -61,10 +64,17 @@ The `SPARQL` package (https://cran.r-project.org/package=SPARQL): use `SPARQL` t
 
 ## JavaScript
 
-Search results for 'rdf' on yhe npm repository: https://www.npmjs.com/search?q=keywords:RDF
+### Libraries
 
-SPARQL-Connect: https://www.npmjs.com/package/sparql-connect
+The [results](https://www.npmjs.com/search?q=keywords:RDF) of a search for 'RDF' on the npm repository show that a large number of JavaScript resources are available. A number of these projects have recently regrouped into the [RDF.js](https://github.com/rdfjs/) community. In particular, the [N3](https://www.npmjs.com/package/n3) library is a good solution for handling RDF data inside the browser.
 
+For React/Redux applications, [SPARQL-Connect](https://www.npmjs.com/package/sparql-connect) is a useful tools for sending SPARQL queries and storing the results in the application state.
+
+### Examples
+
+The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is an example of React application using N3.js with local storage.
+
+The [Operation Explorer](https://github.com/FranckCo/Operation-Explorer) is a prototype tools developed by Insee that uses SPARQL Connect. 
 
 ## High-level tools
 
@@ -77,9 +87,11 @@ The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web ap
 The [Open Cube Toolkit](http://opencube-toolkit.eu/) is a collection of tools designed to work with RDF data cubes.
 
 ### Centralised LOSD Publication Platform
+
 The Centralised LOSD Publication Platform is a set of tools that have been thoroughly studied and deployed/adapted by [Derilinx](https://derilinx.com/), [ADAPT](https://www.adaptcentre.ie/) and [Insight](https://www.insight-centre.org/) to form the LOSD publication pipeline: Data Cataloging, Conversion, Publishing, and Visualisation and Analysis.
 
 Details about the LOSD Publication pipeline are available [here](losd.md).
 
-### Chargement DSD
-L'outil [chargement DSD](https://github.com/Landalvic/los-hackathon) est un poc fait en react + java qui permet de charger/modifier/supprimer des  DSD et de charger des données à l'intérieur, le tout basé sur le modèle [Data Cube](https://www.w3.org/TR/vocab-data-cube/). L'outil permet également de visualiser ces données en format XML ou JSON.
+### DSD Loader
+
+The [DSD Loader](https://github.com/Landalvic/los-hackathon) is a React + Java tool that allows to load, create and modify [Data Cube](https://www.w3.org/TR/vocab-data-cube/) Data Structure Definitions and to load the corresponding data into an RDF triple store. It can also be used to visualize the data as XML or JSON.
