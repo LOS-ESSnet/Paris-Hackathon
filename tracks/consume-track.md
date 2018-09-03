@@ -24,7 +24,7 @@ The detailed agenda is indicated below. Please note that coffee will be provided
 | Wednesday | 12:00 PM - 1:30 PM | Lunch break |
 | Wednesday | 1:30 PM - 6:00 PM | Hackathon activities |
 | Thursday  | 9:00 AM - 12:00 PM | Hackathon activities |
-| Wednesday | 12:00 PM - 1:30 PM | Lunch break |
+| Thursday  | 12:00 PM - 1:30 PM | Lunch break |
 | Thursday  | 1:30 PM - 6:00 PM | Hackathon activities |
 | Friday    | 9:00 AM - 10:00 PM | Preparation of presentations |
 | Friday    | 10:00 AM - 12:00 PM | Presentation of results |
