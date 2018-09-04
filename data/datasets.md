@@ -17,11 +17,17 @@ The following data sets are made available for the hackathon.
 
 ## Other data sources
 
-### RDF data sets
+### RDF data sets or SPARQL endpoints
 
-TBP
+POP5
+NUTS
+
+ * The Linked Data web site of the [Government of Scotland](https://statistics.gov.scot/data_home)
+
+ * [GeoHive](http://data.geohive.ie/): Irish geospatial information as Linked Data
 
 ### Data in other formats
 
  * [Istat statistics](http://dati.istat.it/Index.aspx?lang=en)
+
  * The [Eurostat database](http://ec.europa.eu/eurostat/data/database)
