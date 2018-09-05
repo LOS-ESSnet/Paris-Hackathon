@@ -21,7 +21,7 @@ For a description of the properties, see the [template](dataset-description-temp
 
 | Property     | Value
 |--------------|----
-| Title        | Data on occupancy of tourist accommodation establishments in CSV format
+| Title        | Data on occupancy of tourist accommodation establishments for France in 2017 in CSV format
 | Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
 | Format       | CSV
 | Access URL   | [http://linked-open-statistics.org/plosh/tour-occ-fr.csv](http://linked-open-statistics.org/plosh/tour-occ-fr.csv)
