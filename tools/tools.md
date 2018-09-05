@@ -38,6 +38,8 @@ A number of useful tools can be used in order to read the source data.
 
 The [POP5](https://github.com/LOS-ESSnet/POP5) program shows how to work with Apache Jena. See the [DataSetModelMaker](https://github.com/LOS-ESSnet/POP5/blob/master/src/main/java/eu/europa/ec/eurostat/los/pop5/DataSetModelMaker.java) class for an example of reading Excel data with POI and transforming it to RDF, and the [DSDModelMaker](https://github.com/LOS-ESSnet/POP5/blob/master/src/main/java/eu/europa/ec/eurostat/los/pop5/DSDModelMaker.java) for how to make a SPARQL query with Jena.
 
+The [NUTS GeoSPARQL](https://github.com/LOS-ESSnet/NUTS-GeoSPARQL) program also uses Jena, but Apache Commons CSV is used to read the raw data.
+
 The DSD Loader (see below) is an example of Java program using Eclipse RDF4J framework.
 
 ## Python
@@ -73,6 +75,8 @@ For React/Redux applications, [SPARQL-Connect](https://www.npmjs.com/package/spa
 ### Examples
 
 The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is an example of React application using N3.js with local storage.
+
+The [SPARQL React demo](https://github.com/LOS-ESSnet/SPARQL-React-Demo) shows how to query SPARQL data and to make visualisations with it.
 
 The [Operation Explorer](https://github.com/FranckCo/Operation-Explorer) is a prototype tools developed by Insee that uses SPARQL Connect. 
 
