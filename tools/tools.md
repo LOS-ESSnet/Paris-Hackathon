@@ -64,6 +64,11 @@ See the installation instructions here: [doi:10.5063/F1VM496B](http://doi.org/10
 
 The `SPARQL` package (https://cran.r-project.org/package=SPARQL): use `SPARQL` to pose `SELECT` or `UPDATE` queries to an end-point.
 
+### Demo
+
+A `R-Shiny App demo` using SPARQL queries and some dataviz is provided [here](ShinyAppDemo.R).
+
+
 ## JavaScript
 
 ### Libraries
