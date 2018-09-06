@@ -48,6 +48,8 @@ The DSD Loader (see below) is an example of Java program using Eclipse RDF4J fra
 
 A demo Jupyter notebook showing how to query a SPARQL endpoint is provided [here](sparql-python.ipynb).
 
+A web application using [Dash](https://plot.ly/products/dash/) is also available. The source code is [here](https://github.com/jfeudeline/los-python-app) and the application is deployed [here](https://los-dash-app.herokuapp.com/).
+
 ## R
 
 The two main packages for the manipulation of `RDF` data are `rdflib` and `SPARQL`.
@@ -66,7 +68,7 @@ The `SPARQL` package (https://cran.r-project.org/package=SPARQL): use `SPARQL` t
 
 ### Demo
 
-A `R-Shiny App demo` using SPARQL queries and some dataviz is provided [here](ShinyAppDemo.R).
+An R Shiny demo application using SPARQL queries and some dataviz is provided [here](https://github.com/LOS-ESSnet/SPARQL-Shiny-Demo).
 
 
 ## JavaScript
