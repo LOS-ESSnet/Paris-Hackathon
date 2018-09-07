@@ -21,7 +21,28 @@ For a description of the properties, see the [template](dataset-description-temp
 
 | Property     | Value
 |--------------|----
-| Title        | Data on occupancy of tourist accommodation establishments for France in 2017 in CSV format
+| Title        | Data on occupancy of tourist accommodation establishments broken down by nace rev. 2 and nuts for France from 2015 to 2017 in CSV format
 | Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
 | Format       | CSV
-| Access URL   | [http://linked-open-statistics.org/plosh/tour-occ-fr.csv](http://linked-open-statistics.org/plosh/tour-occ-fr.csv)
+| Access URL   | [http://linked-open-statistics.org/plosh/tourism-nuts-nace-r2-fr.csv](http://linked-open-statistics.org/plosh/tourism-nuts-nace-r2-fr.csv)
+
+| Property     | Value
+|--------------|----
+| Title        | Data on occupancy of tourist accommodation establishments broken down by urban density for France from 2015 to 2017 in CSV format
+| Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
+| Format       | CSV
+| Access URL   | [http://linked-open-statistics.org/plosh/tourism-degurba-fr.csv](http://linked-open-statistics.org/plosh/tourism-degurba-fr.csv)
+
+| Property     | Value
+|--------------|----
+| Title        | Data on occupancy of tourist accommodation establishments broken down by coastal/non-coastal area for France from 2015 to 2017 in CSV format
+| Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
+| Format       | CSV
+| Access URL   | [http://linked-open-statistics.org/plosh/tourism-terrtypo-fr.csv](http://linked-open-statistics.org/plosh/tourism-terrtypo-fr.csv)
+
+| Property     | Value
+|--------------|----
+| Title        | Data on occupancy of tourist accommodation establishments broken down by non-resident's country for France from 2015 to 2017 in CSV format
+| Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
+| Format       | CSV
+| Access URL   | [http://linked-open-statistics.org/plosh/tourism-partner-fr.csv](http://linked-open-statistics.org/plosh/tourism-partner-fr.csv)
