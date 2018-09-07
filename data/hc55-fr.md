@@ -10,7 +10,7 @@ For a description of the properties, see the [template](dataset-description-temp
 | Title        | HC55 Data
 | Description  | Population broken down by age, sex and nuts
 | Publisher    | EUROSTAT
-| Landing page | 
+| Landing page | [CensusHub](https://ec.europa.eu/CensusHub2/query.do?step=selectHyperCube&qhc=false)
 | Keywords     | Census, age, sex, NUTS
 | Spatial      | FR
 | Structure    | [DSD](https://github.com/LOS-ESSnet/Paris-Hackathon/blob/master/data/hc55-fr-dsd.ods?raw=true) 
@@ -24,4 +24,4 @@ For a description of the properties, see the [template](dataset-description-temp
 | Title        | Population in 2011 in France in CSV format 
 | Licence      | [Legal notice](https://ec.europa.eu/info/legal-notice_en)
 | Format       | CSV
-| Access URL   | [https://losd-data.staging.derilinx.com/dataset/french-hc55-census-data](https://losd-data.staging.derilinx.com/dataset/french-hc55-census-data/resource/64b86dbd-3b76-4fb8-aaff-4a09daf7874d)
+| Access URL   | [https://losd-data.staging.derilinx.com/dataset/french-hc55-census-data](https://losd-data.staging.derilinx.com/dataset/french-hc55-census-data/)
