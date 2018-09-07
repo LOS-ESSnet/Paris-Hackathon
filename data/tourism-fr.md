@@ -28,7 +28,7 @@ For a description of the properties, see the [template](dataset-description-temp
 
 | Property     | Value
 |--------------|----
-| Title        | Data on occupancy of tourist accommodation establishments broken down by urban density for France from 2015 to 2017 in CSV format
+| Title        | Data on occupancy of tourist accommodation establishments broken down by population density for France from 2015 to 2017 in CSV format
 | Licence      | [Conditions of redistribution](https://www.insee.fr/en/information/2409139)
 | Format       | CSV
 | Access URL   | [http://linked-open-statistics.org/plosh/tourism-degurba-fr.csv](http://linked-open-statistics.org/plosh/tourism-degurba-fr.csv)
