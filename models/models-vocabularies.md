@@ -17,7 +17,9 @@ All participants of the “Produce” track that intend to convert or create dim
 
 For participants of the “Consume” track, SPARQL will be the most useful thing to know. The Jena documentation includes a [SPARQL tutorial](https://jena.apache.org/tutorials/sparql.html), translated in French [here](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/). For more in-depth information, the [SPARQL Query Language](https://www.w3.org/TR/sparql11-query/) specification is the place to go.
 
-Short video introductions of RDF/RDFS and SPARQL are available on the [Ontotext web site](http://graphdb.ontotext.com/documentation/standard/devhub/fundamentals.html). A more in-depth introduction to SPARQL by Bob DuCharme can be found on [YouTube](https://www.youtube.com/watch?v=FvGndkpa4K0).
+Short videos introducting RDF/RDFS and SPARQL are available on the [Ontotext web site](http://graphdb.ontotext.com/documentation/standard/devhub/fundamentals.html). A more in-depth introduction to SPARQL by Bob DuCharme can be found on [YouTube](https://www.youtube.com/watch?v=FvGndkpa4K0).
+
+A specific [tutoria](http://www.linked-open-statistics.org/plosh/sparql-inside) on SPARQL has also been realised for the hackathon.
 
 ## SKOS/XKOS
 
