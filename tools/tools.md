@@ -68,7 +68,7 @@ The `SPARQL` package (https://cran.r-project.org/package=SPARQL): use `SPARQL` t
 
 ### Demo
 
-An R Shiny demo application using SPARQL queries and some dataviz is provided [here](https://github.com/LOS-ESSnet/SPARQL-Shiny-Demo).
+An [R Shiny demo application](http://shiny.linked-open-statistics.org/plosh/demo/) using SPARQL queries and some dataviz is provided [here](https://github.com/LOS-ESSnet/SPARQL-Shiny-Demo).
 
 
 ## JavaScript
@@ -83,9 +83,9 @@ For React/Redux applications, [SPARQL-Connect](https://www.npmjs.com/package/spa
 
 The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is an example of React application using N3.js with local storage.
 
-The [SPARQL React demo](https://github.com/LOS-ESSnet/SPARQL-React-Demo) shows how to query SPARQL data and to make visualisations with it.
+The [SPARQL React demo](http://www.linked-open-statistics.org/plosh/sparql-react-demo) shows how to query SPARQL data and to make visualisations with it. The source code is available [on GitHub](https://github.com/LOS-ESSnet/SPARQL-React-Demo).
 
-The [Operation Explorer](https://github.com/FranckCo/Operation-Explorer) is a prototype tools developed by Insee that uses SPARQL Connect. 
+The [Operation Explorer](http://operations.scfe.eu) is a prototype tools developed by Insee that uses SPARQL Connect. The source code is available [on GitHub](https://github.com/FranckCo/Operation-Explorer).
 
 ## High-level tools
 
