@@ -14,6 +14,10 @@ The following data sets are made available for the hackathon.
 
 [Census (HC55)](hc55-fr.md) (French data set)
 
+[Education](education-insc.md) (French data set)
+
+[Construction](building-permit-fr.md) (French data set)
+
 
 ## Other data sources
 
