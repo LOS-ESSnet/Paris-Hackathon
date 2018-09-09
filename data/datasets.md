@@ -18,6 +18,7 @@ The following data sets are made available for the hackathon.
 
 [Construction](building-permit-fr.md) (French data set)
 
+[EU SILC, LFS, HC55](https://losd-data.staging.derilinx.com/dataset) (Bulgarian, French, Italian, Irish data sets)
 
 ## Other data sources
 
