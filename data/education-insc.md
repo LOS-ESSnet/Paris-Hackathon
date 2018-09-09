@@ -7,7 +7,7 @@ For a description of the properties, see the [template](dataset-description-temp
 | Property     | Value
 |--------------|----|
 | Identifier   | education-insc
-| Title        | Eudcation and training - Participation in education and training
+| Title        | Education and training - Participation in education and training
 | Description  | Pupils enrolled in secondary education broken down by age, sex, type of institution, programm orientation and status
 | Publisher    | DEPP
 | Landing page | 
