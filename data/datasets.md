@@ -25,9 +25,13 @@ The following data sets are made available for the hackathon.
 ### RDF data sets or SPARQL endpoints
 
 [NUTS](http://graphdb.linked-open-statistics.org/) (Repository: nuts)
+
 [POP5](http://graphdb.linked-open-statistics.org/) (Repository: pop5)
+
 [Legal populations 2010-2015](http://rdf.insee.fr/sparql)
-[French official geographic code](http://rdf.insee.fr/geo/index.html) (COG)
+
+[French geographic official code](http://rdf.insee.fr/geo/index.html) (COG)
+
 [French classification of activities](http://rdf.insee.fr/codes/index.html) (NAF rev. 2)
 
  * The Linked Data web site of the [Government of Scotland](https://statistics.gov.scot/data_home)
