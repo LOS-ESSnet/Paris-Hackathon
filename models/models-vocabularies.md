@@ -19,7 +19,7 @@ For participants of the “Consume” track, SPARQL will be the most useful thin
 
 Short videos introducting RDF/RDFS and SPARQL are available on the [Ontotext web site](http://graphdb.ontotext.com/documentation/standard/devhub/fundamentals.html). A more in-depth introduction to SPARQL by Bob DuCharme can be found on [YouTube](https://www.youtube.com/watch?v=FvGndkpa4K0).
 
-A specific [tutoria](http://www.linked-open-statistics.org/plosh/sparql-inside) on SPARQL has also been realised for the hackathon.
+A specific [tutorial](http://www.linked-open-statistics.org/plosh/sparql-inside) on SPARQL has also been realised for the hackathon.
 
 ## SKOS/XKOS
 
