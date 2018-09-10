@@ -81,7 +81,7 @@ For React/Redux applications, [SPARQL-Connect](https://www.npmjs.com/package/spa
 
 ### Examples
 
-The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is an example of React application using N3.js with local storage.
+The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is an example of React application using N3.js with local storage. the application is deployed [here](http://www.linked-open-statistics.org/plosh/dsd-editor/).
 
 The [SPARQL React demo](http://www.linked-open-statistics.org/plosh/sparql-react-demo) shows how to query SPARQL data and to make visualisations with it. The source code is available [on GitHub](https://github.com/LOS-ESSnet/SPARQL-React-Demo).
 
