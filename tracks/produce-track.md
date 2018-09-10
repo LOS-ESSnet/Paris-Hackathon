@@ -19,7 +19,7 @@ The detailed agenda is indicated below. Please note that coffee will be provided
 |-----------|---------|---------|
 | Monday    | 2:00 AM - 2:30 PM | Introduction(s) |
 | Monday    | 2:30 AM - 3:15 PM | Presentation of the data sets |
-| Monday    | 3:15 AM - 4:00 PM | Presentation of the tools |
+| Monday    | 3:15 AM - 4:00 PM | Presentation of the standards and tools |
 | Monday    | 4:00 AM - 6:00 PM | Hackathon activities |
 | Tuesday   | 9:00 AM - 12:00 PM | Hackathon activities |
 | Tuesday   | 12:00 PM - 1:30 PM | Lunch break |

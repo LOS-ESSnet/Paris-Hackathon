@@ -95,18 +95,32 @@ The Centralised LOSD Publication Platform is a set of tools that have been thoro
 
 Details about the LOSD Publication pipeline are available [here](losd.md).
 
-### DSD Editor
+### Tools for creating DSDs
+
+#### DSD Editor
 
 The [DSD Editor](https://github.com/LOS-ESSnet/DSD-Editor) is a prototype web app designed to edit [Data Cube](https://www.w3.org/TR/vocab-data-cube/) Data Structure Definitions. This ReactJS tool is based on [N3.js](https://github.com/rdfjs/N3.js) which provides a local RDF store. Import, export, create and edit your RDF data!
 
-### DSD Loader
+#### DSD Loader
 
 The [DSD Loader](https://github.com/Landalvic/los-hackathon) is a React + Java tool that allows to load, create and modify [Data Cube](https://www.w3.org/TR/vocab-data-cube/) Data Structure Definitions and to load the corresponding data into an RDF triple store. It can also be used to visualize the data as XML or JSON.
 
-### Open Cube Toolkit
+### Tools from European research projects
+
+#### Open Cube Toolkit
 
 The [Open Cube Toolkit](http://opencube-toolkit.eu/) is a collection of tools designed to work with RDF data cubes.
 
-### Tools from the OpenGovIntelligence project
+#### Tools from the OpenGovIntelligence project
 
 The [GitHub repository](https://github.com/OpenGovIntelligence) of the project contains the source code of the tools developed during the Open Cube and the OpenGovIntelligence projects.
+
+### Tools for creating links
+
+#### Silk
+
+The [Silk](http://silkframework.org/) framework can be used to generate links between related data items within different Linked Data sources.
+
+#### Limes
+
+[Limes](https://github.com/dice-group/LIMES) is another framework for discovering links in the web of data: see the [documentation](http://dice-group.github.io/LIMES/) for more information.

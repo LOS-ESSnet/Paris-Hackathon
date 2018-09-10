@@ -19,7 +19,7 @@ The detailed agenda is indicated below. Please note that coffee will be provided
 |---------|---------|---------|
 | Wednesday | 9:00 AM - 9:30 AM | Introduction(s) |
 | Wednesday | 9:30 AM - 10:00 AM | Presentation of the first results of the “Produce” track |
-| Wednesday | 10:00 AM - 10:45 AM | Presentation of the tools |
+| Wednesday | 10:00 AM - 10:45 AM | Presentation of the standards and tools |
 | Wednesday | 10:45 AM - 12:00 PM | Hackathon activities |
 | Wednesday | 12:00 PM - 1:30 PM | Lunch break |
 | Wednesday | 1:30 PM - 4:30 PM | Hackathon activities |
