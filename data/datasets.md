@@ -4,35 +4,35 @@
 
 The following data sets are made available for the hackathon.
 
-[Tourism statistics](tourism-fr.md) (French data set)
+ * [Tourism statistics](tourism-fr.md) (French data set)
 
-[Labour force survey](lfs-fr.md) (French data set)
+ * [Labour force survey](lfs-fr.md) (French data set)
 
-[EU SILC](silc-fr.md) (French data set)
+ * [EU SILC](silc-fr.md) (French data set)
 
-[SBS](sbs-fr.md) (French data set)
+ * [SBS](sbs-fr.md) (French data set)
 
-[Census (HC55)](hc55-fr.md) (French data set)
+ * [Census (HC55)](hc55-fr.md) (French data set)
 
-[Education](education-insc.md) (French data set)
+ * [Education](education-insc.md) (French data set)
 
-[Construction](building-permit-fr.md) (French data set)
+ * [Construction](building-permit-fr.md) (French data set)
 
-[EU SILC, LFS, HC55](https://losd-data.staging.derilinx.com/dataset) (Bulgarian, French, Italian, Irish data sets)
+ * [EU SILC, LFS, HC55](https://losd-data.staging.derilinx.com/dataset) (Bulgarian, French, Italian, Irish data sets)
 
 ## Other data sources
 
 ### RDF data sets or SPARQL endpoints
 
-[NUTS](http://graphdb.linked-open-statistics.org/) (Repository: nuts)
+ * [NUTS](http://graphdb.linked-open-statistics.org/) (Repository: nuts)
 
-[POP5](http://graphdb.linked-open-statistics.org/) (Repository: pop5)
+ * [POP5](http://graphdb.linked-open-statistics.org/) (Repository: pop5)
 
-[Legal populations 2010-2015](http://rdf.insee.fr/sparql)
+ * [Legal populations 2010-2015](http://rdf.insee.fr/sparql)
 
-[French geographic official code](http://rdf.insee.fr/geo/index.html) (COG)
+ * [French geographic official code](http://rdf.insee.fr/geo/index.html) (COG)
 
-[French classification of activities](http://rdf.insee.fr/codes/index.html) (NAF rev. 2)
+ * [French classification of activities](http://rdf.insee.fr/codes/index.html) (NAF rev. 2)
 
  * The Linked Data web site of the [Government of Scotland](https://statistics.gov.scot/data_home)
 
