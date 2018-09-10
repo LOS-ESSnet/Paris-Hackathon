@@ -124,3 +124,7 @@ The [Silk](http://silkframework.org/) framework can be used to generate links be
 #### Limes
 
 [Limes](https://github.com/dice-group/LIMES) is another framework for discovering links in the web of data: see the [documentation](http://dice-group.github.io/LIMES/) for more information.
+
+#### OnAGUI
+
+[OnAGUI](https://github.com/lmazuel/onagui) is a software to help automatic or manual realisation of ontologic alignment.

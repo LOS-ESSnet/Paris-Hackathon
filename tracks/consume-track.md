@@ -31,3 +31,23 @@ The detailed agenda is indicated below. Please note that coffee will be provided
 | Friday    | 9:45 AM - 10:45 PM | Technical presentations |
 | Friday    | 11:00 AM - 12:30 PM | Presentation of results |
 | Friday    | 12:30 PM - 1:00 PM | Closing cocktail |
+
+## Suggestions
+
+Here are some detailed suggestions in case you need inspiration.
+
+### French Census data
+
+A lot of French census data has been converted to RDF. They are available via the following links:
+
+ * [POP5](http://graphdb.linked-open-statistics.org/) (repository: pop5)
+
+ * [Legal populations 2010-2015](http://rdf.insee.fr/sparql) (graphs http://rdf.insee.fr/graphes/demo/popleg2010 to http://rdf.insee.fr/graphes/demo/popleg2015)
+
+### NUTS with contours
+
+The European NUTS with their WKT contours are available at: http://graphdb.linked-open-statistics.org/ (repository: nuts)
+
+### Public SPARQL endpoints
+
+[DBpedia](https://dbpedia.org/sparql) and [Wikidata](https://query.wikidata.org/) endpoints are always good places to test your SPARQL skills.
