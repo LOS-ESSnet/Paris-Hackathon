@@ -1,0 +1,45 @@
+PREFIX gr1-55f: <http://id.linked-open-statistics.org/plosh/teamp1/>
+PREFIX rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:     <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:      <http://www.w3.org/2002/07/owl#>
+PREFIX xsd:      <http://www.w3.org/2001/XMLSchema#>
+PREFIX skos:     <http://www.w3.org/2004/02/skos/core#>
+PREFIX void:     <http://rdfs.org/ns/void#>
+PREFIX dct:      <http://purl.org/dc/terms/>
+PREFIX foaf:     <http://xmlns.com/foaf/0.1/>
+PREFIX org:      <http://www.w3.org/ns/org#>
+PREFIX admingeo: <http://data.ordnancesurvey.co.uk/ontology/admingeo/>
+PREFIX interval: <http://reference.data.gov.uk/def/intervals/>
+
+PREFIX qb:       <http://purl.org/linked-data/cube#>
+PREFIX ramon: <http://ec.europa.eu/eurostat/ramon/nomenclatures/>
+
+PREFIX sdmx-concept:    <http://purl.org/linked-data/sdmx/2009/concept#>
+PREFIX sdmx-dimension:  <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX sdmx-attribute:  <http://purl.org/linked-data/sdmx/2009/attribute#>
+PREFIX sdmx-measure:    <http://purl.org/linked-data/sdmx/2009/measure#>
+PREFIX sdmx-metadata:   <http://purl.org/linked-data/sdmx/2009/metadata#>
+PREFIX sdmx-code:       <http://purl.org/linked-data/sdmx/2009/code#>
+PREFIX sdmx-subject:    <http://purl.org/linked-data/sdmx/2009/subject#>
+
+PREFIX ex-geo:   <http://example.org/geo#>
+PREFIX eg:       <http://example.org/ns#>
+
+CONSTRUCT {
+    ?observation a qb:Observation ;
+        qb:dataset gr1-55f:lfs ;
+        ?MEASURE_uri ?OBS_VALUE_decimal ;
+        gr1-55f:time ?TIME_PERIOD ;
+        gr1-55f:sex ?SEX_string ;
+        gr1-55f:age ?AGE_uri .
+}
+WHERE {
+    bind(uri(concat("http://id.linked-open-statistics.org/plosh/teamp1/",?AGE,?MEASURE,?SEX,?TIME_PERIOD)) as ?observation)
+
+bind(uri(concat("http://ec.europa.eu/eurostat/ramon/nomenclatures/",?AGE)) as ?AGE_uri)
+bind(uri(concat("http://id.linked-open-statistics.org/plosh/teamp1/",?MEASURE)) as ?MEASURE_uri)
+
+bind(xsd:double(?OBS_VALUE) as ?OBS_VALUE_decimal)
+bind(replace(?SEX,"T","TOTAL") as ?SEX_string)
+
+}
