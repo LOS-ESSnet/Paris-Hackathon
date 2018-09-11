@@ -1,0 +1,115 @@
+@prefix ramon: <http://ec.europa.eu/eurostat/ramon/nomenclatures/> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dct:      <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+
+
+
+
+ramon:Y15-19 a ramon:Age ;
+	dct:identifier "ramon:Y15-19 a ramon:Age ;" ;
+	   skos:label "From 15 to 19 years"@en .
+
+ramon:Y15-24 a ramon:Age ;
+	dct:identifier "ramon:Y15-24 a ramon:Age ;" ;
+	skos:label "From 15 to 24 years"@en .
+ramon:Y15-39 a ramon:Age ;
+	dct:identifier "ramon:Y15-39 a ramon:Age ;" ;
+	skos:label "From 15 to 39 years"@en .
+ramon:Y15-59 a ramon:Age ;
+	dct:identifier "ramon:Y15-59 a ramon:Age ;" ;
+	skos:label "From 15 to 59 years"@en .
+ramon:Y15-64 a ramon:Age ;
+	dct:identifier "ramon:Y15-64 a ramon:Age ;" ;
+	skos:label "From 15 to 64 years"@en .
+ramon:Y15-74 a ramon:Age ;
+	dct:identifier "ramon:Y15-74 a ramon:Age ;" ;
+	skos:label "From 15 to 74 years"@en .
+ramon:Y20-24 a ramon:Age ;
+	dct:identifier "ramon:Y20-24 a ramon:Age ;" ;
+	skos:label "From 20 to 24 years"@en .
+ramon:Y20-64 a ramon:Age ;
+	dct:identifier "ramon:Y20-64 a ramon:Age ;" ;
+	skos:label "From 20 to 64 years"@en .
+ramon:Y25-29 a ramon:Age ;
+	dct:identifier "ramon:Y25-29 a ramon:Age ;" ;
+	skos:label "From 25 to 29 years"@en .
+ramon:Y25-49 a ramon:Age ;
+	dct:identifier "ramon:Y25-49 a ramon:Age ;" ;
+	skos:label "From 25 to 49 years"@en .
+ramon:Y25-54 a ramon:Age ;
+	dct:identifier "ramon:Y25-54 a ramon:Age ;" ;
+	skos:label "From 25 to 54 years"@en .
+ramon:Y25-59 a ramon:Age ;
+	dct:identifier "ramon:Y25-59 a ramon:Age ;" ;
+	skos:label "From 25 to 59 years"@en .
+ramon:Y25-64 a ramon:Age ;
+	dct:identifier "ramon:Y25-64 a ramon:Age ;" ;
+	skos:label "From 25 to 64 years"@en .
+ramon:Y25-74 a ramon:Age ;
+	dct:identifier "ramon:Y25-74 a ramon:Age ;" ;
+	skos:label "From 25 to 74 years"@en .
+ramon:Y30-34 a ramon:Age ;
+	dct:identifier "ramon:Y30-34 a ramon:Age ;" ;
+	skos:label "From 30 to 34 years"@en .
+ramon:Y35-39 a ramon:Age ;
+	dct:identifier "ramon:Y35-39 a ramon:Age ;" ;
+	skos:label "From 35 to 39 years"@en .
+ramon:Y40-44 a ramon:Age ;
+	dct:identifier "ramon:Y40-44 a ramon:Age ;" ;
+	skos:label "From 40 to 44 years"@en .
+ramon:Y40-59 a ramon:Age ;
+	dct:identifier "ramon:Y40-59 a ramon:Age ;" ;
+	skos:label "From 40 to 59 years"@en .
+ramon:Y40-64 a ramon:Age ;
+	dct:identifier "ramon:Y40-64 a ramon:Age ;" ;
+	skos:label "From 40 to 64 years"@en .
+ramon:Y45-49 a ramon:Age ;
+	dct:identifier "ramon:Y45-49 a ramon:Age ;" ;
+	skos:label "From 45 to 49 years"@en .
+ramon:Y50-54 a ramon:Age ;
+	dct:identifier "ramon:Y50-54 a ramon:Age ;" ;
+	skos:label "From 50 to 54 years"@en .
+ramon:Y50-59 a ramon:Age ;
+	dct:identifier "ramon:Y50-59 a ramon:Age ;" ;
+	skos:label "From 50 to 59 years"@en .
+ramon:Y50-64 a ramon:Age ;
+	dct:identifier "ramon:Y50-64 a ramon:Age ;" ;
+	skos:label "From 50 to 64 years"@en .
+ramon:Y50-74 a ramon:Age ;
+	dct:identifier "ramon:Y50-74 a ramon:Age ;" ;
+	skos:label "From 50 to 74 years"@en .
+ramon:Y55-59 a ramon:Age ;
+	dct:identifier "ramon:Y55-59 a ramon:Age ;" ;
+	skos:label "From 55 to 59 years"@en .
+ramon:Y55-64 a ramon:Age ;
+	dct:identifier "ramon:Y55-64 a ramon:Age ;" ;
+	skos:label "From 55 to 64 years"@en .
+ramon:Y60-64 a ramon:Age ;
+	dct:identifier "ramon:Y60-64 a ramon:Age ;" ;
+	skos:label "From 60 to 64 years"@en .
+ramon:Y65-69 a ramon:Age ;
+	dct:identifier "ramon:Y65-69 a ramon:Age ;" ;
+	skos:label "From 65 to 69 years"@en .
+ramon:Y65-74 a ramon:Age ;
+	dct:identifier "65-74" ;
+	skos:label "From 65 to 74 years"@en .
+
+ramon:Y70-74 a ramon:Age ;
+	dct:identifier "ramon:Y70-74 a ramon:Age ;" ;
+	skos:label "From 70 to 74 years"@en .
+ramon:Y_GE15 a ramon:Age ;
+	dct:identifier "ramon:Y_GE15 a ramon:Age ;" ;
+	skos:label "15 years or over"@en .
+ramon:Y_GE25 a ramon:Age ;
+	dct:identifier "ramon:Y_GE25 a ramon:Age ;" ;
+	skos:label "25 years or over"@en .
+ramon:Y_GE50 a ramon:Age ;
+	dct:identifier "ramon:Y_GE50 a ramon:Age ;" ;
+	skos:label "50 years or over"@en .
+ramon:Y_GE65 a ramon:Age ;
+	dct:identifier "ramon:Y_GE65 a ramon:Age ;" ;
+	skos:label "65 years or over"@en .
+ramon:Y_GE75 a ramon:Age ;
+	dct:identifier "ramon:Y_GE75 a ramon:Age ;" ;
+	skos:label "75 years or over"@en .
