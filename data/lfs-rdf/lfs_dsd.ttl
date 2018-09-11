@@ -37,7 +37,7 @@ gr1-55f:lfs-dsd a qb:DataStructureDefinition ;
     [ qb:measure  gr1-55f:QLF15C03 ] ,
     [ qb:measure  gr1-55f:QLF15C06 ] ,
 
-    [ qb:dimension  sdmx-dimension:sex ] ,
+    [ qb:dimension  gr1-55f:sex ] ,
     [ qb:dimension  gr1-55f:time ] ,
     [ qb:dimension  gr1-55f:age ] ,
     [ qb:attribute gr1-55f:CONF_STATUS ;
@@ -45,9 +45,7 @@ gr1-55f:lfs-dsd a qb:DataStructureDefinition ;
         qb:componentAttachment qb:Dataset ; ] .
 
 gr1-55f:time  a qb:DimensionProperty ;
-    rdfs:label "Reference period" ;
-    rdfs:range interval:Interval ;
-    qb:concept sdmx-concept:refPeriod .
+    rdfs:label "Reference period" .
 
 gr1-55f:QLF15C01 a skos:Concept ;
     skos:label "Persons in employment (Thousand)" ;
@@ -64,4 +62,3 @@ gr1-55f:QLF15C03 a qb:measureProperty ;
 gr1-55f:QLF15C06 a qb:measureProperty ;
     skos:label "Unemployment rate (%)" ;
     qb:concept <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Unemployment> .
-
