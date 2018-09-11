@@ -47,18 +47,30 @@ gr1-55f:lfs-dsd a qb:DataStructureDefinition ;
 gr1-55f:time  a qb:DimensionProperty ;
     rdfs:label "Reference period" .
 
-gr1-55f:QLF15C01 a skos:Concept ;
-    skos:label "Persons in employment (Thousand)" ;
+gr1-55f:sex a qb:DimensionProperty ;
+    rdfs:label "Sex" .
+
+gr1-55f:age a qb:DimensionProperty ;
+    a qb:CodedProperty ;
+    rdfs:range ramon:Age ;
+    qb:codeList ramon:age ;    
+    rdfs:label "Age" .
+
+gr1-55f:CONF_STATUS rdfs:label "CONF_STATUS" .
+
+
+gr1-55f:QLF15C01 a qb:MeasureProperty ;
+    rdfs:label "Persons in employment (Thousand)" ;
     qb:concept <https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Employed_person> .
 
-gr1-55f:QLF15C02 a qb:measureProperty ;
-    skos:label "Unemployed persons (Thousand)" ;
+gr1-55f:QLF15C02 a qb:MeasureProperty ;
+    rdfs:label "Unemployed persons (Thousand)" ;
     qb:concept <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Unemployment> .
 
-gr1-55f:QLF15C03 a qb:measureProperty ;
-    skos:label "Active population (Thousand)" ;
+gr1-55f:QLF15C03 a qb:MeasureProperty ;
+    rdfs:label "Active population (Thousand)" ;
     qb:concept <https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Active_population> .
 
-gr1-55f:QLF15C06 a qb:measureProperty ;
-    skos:label "Unemployment rate (%)" ;
+gr1-55f:QLF15C06 a qb:MeasureProperty ;
+    rdfs:label "Unemployment rate (%)" ;
     qb:concept <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Unemployment> .
