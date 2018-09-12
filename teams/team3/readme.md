@@ -41,7 +41,7 @@ select (sum(xsd:double(?pop)) as ?pop_totale) where {
     ?e geo-pos:long ?lon .
     ?e geo-pos:lat ?lat .
     # On récupère la population des carreaux statistiques dont le centroide est à moins d'1 km
-    SERVICE <http://census_sparl_endpoint/repositories/census-point> 
+    SERVICE <http://hackathon2018-2.ontotext.com/repositories/census-point> 
     {
 	?c omgeo:nearby(?lat ?lon "1km") .
     	?c gn:population ?pop .
