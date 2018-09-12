@@ -18,9 +18,8 @@ ex:00708077300034Point a sf:Point;
 * First we download [this file](https://www.insee.fr/fr/statistiques/2520034) containing french population grid data
 * Then we use [QGIS](https://qgis.org/) to convert it to ShapeFile and change projection from EPSG:3035 to EPSG:4326
 * Then we export it from shapefile to CSV
-* We use a [Java tool to convert it to RDF](https://github.com/alicela/CensusGrid-LOS) hacked from 
-* 
+* We use a [Java tool to convert it to RDF](https://github.com/alicela/CensusGrid-LOS) hacked from [this one](https://github.com/LOS-ESSnet/POP5/blob/master/src/main/java/eu/europa/ec/eurostat/los/pop5/DataSetModelMaker.java)
 ## Converting organization data (SIRENE)
 * We use [this repository](http://data.cquest.org/geo_sirene/last/)  containing files with added geolocalization information that has been produced [this way](https://www.insee.fr/fr/information/2509465) and this way
-* We use a Python conversion script to convert it
+* We use a [Python script](https://github.com/trblft/Paris-Hackathon/blob/master/teams/team3/create_rdf_test.py) to convert it
 * This Python script can be modified to add variables using [the W3C Organization Ontology](https://www.w3.org/TR/vocab-org/)
