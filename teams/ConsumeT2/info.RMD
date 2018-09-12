@@ -1,1 +1,3 @@
+Information on geo-spatial extensions in GraphDB, using WGS84 Geo Positioning RDF vocabulary.
 
+http://graphdb.ontotext.com/documentation/enterprise/geo-spatial-extensions.html
