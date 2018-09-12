@@ -1,4 +1,5 @@
 # Population surrounding an organization
+
 ## Declaring Geo Data in RDF
 * We chose the [GeoSparQL Ontology](http://www.opengeospatial.org/standards/geosparql)
 * For example a square grid unit for french population would be declared this way :
@@ -24,3 +25,26 @@ ex:00708077300034Point a sf:Point;
 * We use [this repository](http://data.cquest.org/geo_sirene/last/)  containing files with added geolocalization information that has been produced [this way](https://www.insee.fr/fr/information/2509465) and this way
 * We use a Python conversion script to convert it
 * This Python script can be modified to add variables using [the W3C Organization Ontology](https://www.w3.org/TR/vocab-org/)
+
+## Querying the GraphDB sparql endpoints
+
+```
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos>
+PREFIX gn: <http://www.geonames.org/ontology#>
+PREFIX omgeo: <http://www.ontotext.com/owlim/geo#>
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+select (sum(xsd:double(?pop)) as ?pop_totale) where {
+    # On sélectionne la position de l'entreprise VINOUZE
+    ?e rdfs:label "VINOUZE" .
+    ?e geo-pos:long ?lon .
+    ?e geo-pos:lat ?lat .
+    # On récupère la population des carreaux statistiques dont le centroide est à moins d'1 km
+    SERVICE <http://census_sparl_endpoint/repositories/census-point> 
+    {
+	?c omgeo:nearby(?lat ?lon "1km") .
+    	?c gn:population ?pop .
+    }
+}
+```
