@@ -2,6 +2,9 @@
 
 ## Hackathon data sets
 
+- Short introduction about data sets during hackathon is available [here](datasets.odp)
+- Data visualisation example [here](data-vis-example.pdf)
+
 The following data sets are made available for the hackathon.
 
  * [Tourism statistics](tourism-fr.md) (French data set)
