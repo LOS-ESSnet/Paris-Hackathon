@@ -34,10 +34,10 @@
 
 | Repository     | Graph    | Data set |
 |---------|---------|---------|
-| census-grid | <default> | French Census 2015 by grid units |
-| census-point | <default> | French Census 2015 by points |
-| cog | <default> | French COG |
-| full-sirene-35 | <default> | Sirene for department 35 |
+| census-grid | default | French Census 2015 by grid units |
+| census-point | default | French Census 2015 by points |
+| cog | default | French COG |
+| full-sirene-35 | default | Sirene for department 35 |
 | silkbg | ? | SILC Bulgaria |
-| sirene | <default> | Sirene repository |
+| sirene | default | Sirene repository |
 
