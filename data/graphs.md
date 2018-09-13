@@ -26,4 +26,18 @@
 | plosh | http://id.linked-open-statistics.org/graphes/tourism-nuts-nacer2-occarr |   |
 | plosh | http://id.linked-open-statistics.org/graphes/tourism-partner-occarr |   |
 | plosh | http://id.linked-open-statistics.org/graphes/tourism-partner-occni |   |
-| plosh |http://id.linked-open-statistics.org/graphes/tourism-terrtypo-occni |   |
+| plosh | http://id.linked-open-statistics.org/graphes/tourism-terrtypo-occni |   |
+| pop5 | http://rdf.insee.fr/graphes/demo/pop5|   |
+
+
+## http://hackathon2018-2.ontotext.com/
+
+| Repository     | Graph    | Data set |
+|---------|---------|---------|
+| census-grid | <default> | French Census 2015 by grid units |
+| census-point | <default> | French Census 2015 by points |
+| cog | <default> | French COG |
+| full-sirene-35 | <default> | Sirene for department 35 |
+| silkbg | ? | SILC Bulgaria |
+| sirene | <default> | Sirene repository |
+
